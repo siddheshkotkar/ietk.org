@@ -1,0 +1,778 @@
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/project\n"
+"POT-Creation-Date: 2021-11-16T20:16:39+00:00\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: json2po\n"
+
+#. Plugin Name of the plugin
+msgid "NextGen"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.godaddy.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Next Generation WordPress Experience"
+msgstr "Pengalaman WordPress Next Generation"
+
+#. Author of the plugin
+msgid "GoDaddy"
+msgstr ""
+
+#: includes/class-layout-selector.php:84
+msgid "Generic"
+msgstr "Umum"
+
+#: includes/class-layout-selector.php:110
+msgid "Image category."
+msgstr "Kategori gambar."
+
+#: includes/class-publish-guide.php:142
+msgid "Display Publish Guide."
+msgstr "Tampilkan Panduan Penerbitan."
+
+#: includes/class-site-design.php:344
+msgid "Error processing your request."
+msgstr "Ada kesalahan saat memproses permintaan Anda."
+
+#: includes/class-site-design.php:368
+msgid "A design_style must be passed."
+msgstr "design_style harus memenuhi standar."
+
+#: includes/class-site-design.php:380
+msgid "An available design_style must be passed."
+msgstr "design_style yang tersedia harus memenuhi standar."
+
+#. translators: %s: GoDaddy.
+#: includes/class-wp-admin.php:91
+msgid "Go by %s"
+msgstr "Go oleh %s"
+
+#: build/editorPreferenceModal.js:1
+msgid "Would you like to keep using the GoDaddy Site Editor?"
+msgstr "Apakah Anda ingin tetap menggunakan Editor Situs GoDaddy?"
+
+#: build/editorPreferenceModal.js:1
+msgid ""
+"We want to make sure you have the right tools to build your site. You are "
+"currently using the GoDaddy Site editor, which gives you all of WordPress "
+"plus a way to customize your design, edit your pages, and manage your pages, "
+"all from one place."
+msgstr ""
+"Kami ingin memastikan Anda telah memiliki alat yang tepat untuk membuat "
+"situs Anda. Anda saat ini menggunakan editor Situs GoDaddy, yang memberi "
+"Anda WordPress sekaligus cara membuat desain kustom, mengedit halaman, dan "
+"mengelola halaman Anda, semua dilakukan dari satu tempat."
+
+#: build/editorPreferenceModal.js:1
+msgid "Yes, keep using it"
+msgstr "Ya, tetap gunakan"
+
+#: build/editorPreferenceModal.js:1
+msgid "No, I want to see other options"
+msgstr "Tidak, saya ingin mencoba opsi lain"
+
+#: build/editorPreferenceModal.js:1
+msgid "We’re sorry this wasn’t the right fit for you"
+msgstr "Maaf karena ini tidak sesuai untuk Anda"
+
+#: build/editorPreferenceModal.js:1
+msgid "Could you tell us why?"
+msgstr "Bisa beri tahu kami alasannya?"
+
+#: build/editorPreferenceModal.js:1
+msgid "Tell us why this wasn’t the right fit for you…"
+msgstr "Beri tahu kami mengapa ini tidak sesuai untuk Anda..."
+
+#: build/editorPreferenceModal.js:1
+#: packages/wp-admin/src/themes-optout-modal/index.js:68
+msgid "Go Back"
+msgstr "Kembali"
+
+#: build/editorPreferenceModal.js:1
+msgid "Skip"
+msgstr "Lewati"
+
+#: build/editorPreferenceModal.js:1
+msgid "Continue"
+msgstr "Lanjutkan"
+
+#: build/editorPreferenceModal.js:1
+msgid "Let’s find you a better fit"
+msgstr "Ayo cari yang sesuai untuk Anda"
+
+#: build/editorPreferenceModal.js:1
+msgid "Here are some other options to explore:"
+msgstr "Berikut ini beberapa pilihan lain untuk dijelajahi:"
+
+#: build/editorPreferenceModal.js:1
+msgid "Switch to the default WordPress editor"
+msgstr "Beralih ke editor WordPress default"
+
+#: build/editorPreferenceModal.js:1
+msgid "Switch to a 3rd party page builder"
+msgstr "Beralih ke pembuat halaman pihak ke-3"
+
+#: build/editorPreferenceModal.js:1
+msgid "Talk to someone about my options"
+msgstr "Mendiskusikan pilihan saya dengan orang lain"
+
+#: build/editorPreferenceModal.js:1
+msgid "Hire our experts to build your site for you"
+msgstr "Sewa pakar kami untuk membuatkan situs Anda"
+
+#: build/editorPreferenceModal.js:1
+msgid "Learn More"
+msgstr "Pelajari Selengkapnya"
+
+#: build/editorPreferenceModal.js:1
+msgid "Switching to the default WordPress editor"
+msgstr "Beralih ke editor WordPress default"
+
+#: build/editorPreferenceModal.js:1
+msgid "You should switch to the default WordPress editor if:"
+msgstr "Anda harus beralih ke editor WordPress default jika:"
+
+#: build/editorPreferenceModal.js:1
+msgid "You want to use a different theme"
+msgstr "Anda ingin menggunakan tema lain"
+
+#: build/editorPreferenceModal.js:1
+msgid "You are familiar with and/or prefer to use default WordPress"
+msgstr ""
+"Anda terbiasa dengan dan/atau lebih memilih menggunakan editor WordPress "
+"default"
+
+#: build/editorPreferenceModal.js:1
+msgid ""
+"Once you switch, this site will no longer work with the GoDaddy Site Editor, "
+"so you won’t be able to come back."
+msgstr ""
+"Setelah beralih, Editor Situs GoDaddy tidak akan berfungsi di situs ini, "
+"jadi Anda tidak bisa kembali ke editor."
+
+#: build/editorPreferenceModal.js:1
+msgid "Ready to switch this site to the default WordPress editor?"
+msgstr "Sudah siap beralih ke editor WordPress default?"
+
+#: build/editorPreferenceModal.js:1
+msgid "Switch to Default"
+msgstr "Beralih ke Default"
+
+#: build/editorPreferenceModal.js:1
+msgid "Switching to a 3rd Party Page Builder"
+msgstr "Beralih ke Pembuat Halaman Pihak ke-3"
+
+#: build/editorPreferenceModal.js:1
+msgid ""
+"A 3rd party page builder is a WordPress plugin that you install on your "
+"site, that allows you to build and design pages."
+msgstr ""
+"Pembuat halaman pihak ke-3 merupakan plugin WordPress yang diinstal di situs "
+"dan memungkinkan Anda untuk membuat dan mendesain halaman."
+
+#: build/editorPreferenceModal.js:1
+msgid "Ready to switch this site to a 3rd party page builder?"
+msgstr "Siap untuk mengalihkan situs web ini ke pembuat halaman pihak ke-3?"
+
+#: build/editorPreferenceModal.js:1
+msgid "View Plugins"
+msgstr "Lihat Plugin"
+
+#: build/editorPreferenceModal.js:1
+msgid "Expert help is on the way"
+msgstr "Bantuan para ahli segera datang"
+
+#: build/editorPreferenceModal.js:1
+msgid "Contact our GoDaddy guides to get started."
+msgstr "Hubungi panduan GoDaddy untuk memulai."
+
+#: build/editorPreferenceModal.js:1
+msgid "Contact Us"
+msgstr "Hubungi Kami"
+
+#: build/editorPreferenceModal.js:1
+msgid ""
+"We'll build a stunning professional website, custom tailored to your business"
+msgstr ""
+"Kami akan membuat situs web yang profesional dan menawan, dikustom sesuai "
+"bisnis Anda"
+
+#: build/editorPreferenceModal.js:1
+msgid "Redirecting you to the WordPress Admin…"
+msgstr "Mengalihkan Anda ke WordPress Admin..."
+
+#: build/editorPreferenceModal.js:1
+msgid "Redirecting you to WordPress plugins…"
+msgstr "Mengalihkan Anda ke plugin WordPress…"
+
+#: build/editorPreferenceModal.js:1
+msgid ""
+"We appreciate your feedback and want to make sure you have the right tools "
+"to build your site. You are currently using the GoDaddy Site editor, which "
+"gives you all of WordPress plus a way to customize your design, edit your "
+"pages, and manage your pages, all from one place."
+msgstr ""
+"Terima kasih atas ulasan Anda, dan kami ingin memastikan Anda memiliki alat "
+"yang tepat untuk membuat situs. Anda saat ini menggunakan editor Situs "
+"GoDaddy, yang memberi Anda WordPress sekaligus cara membuat desain kustom, "
+"mengedit halaman, dan mengelola halaman Anda, semua dilakukan dari satu "
+"tempat."
+
+#. translators: Default label for the Document sidebar tab, not selected.
+#: build/editSite.js:16
+msgid "Document"
+msgstr "Dokumen"
+
+#. translators: ARIA label for the Document sidebar tab, selected. %s Document label.
+#: build/editSite.js:17
+msgid "%s (selected)"
+msgstr "%s (dipilih)"
+
+#. translators: ARIA label for the Block Settings Sidebar tab, selected.
+#: build/editSite.js:18
+msgid "Block (selected)"
+msgstr "Blokir (yang dipilih)"
+
+#. translators: ARIA label for the Block Settings Sidebar tab, not selected.
+#. translators: Text label for the Block Settings Sidebar tab.
+#: build/editSite.js:19 build/editSite.js:20
+msgid "Block"
+msgstr "Blokir"
+
+#. translators: Text label for the Block Settings Sidebar tab.
+#: build/editSite.js:20
+msgid "Visibility"
+msgstr "Visibilitas"
+
+#: build/editSite.js:20
+msgid "Publish"
+msgstr "Terbitkan"
+
+#: build/editSite.js:20 packages/site-content/src/post-menu-actions.js:122
+msgid "Really delete?"
+msgstr "Yakin ingin menghapus?"
+
+#: build/editSite.js:20
+msgid "Delete this page"
+msgstr "Hapus halaman ini"
+
+#: build/editSite.js:20
+msgid "Title"
+msgstr "Judul"
+
+#: build/editSite.js:20
+msgid "Display on page"
+msgstr "Tampilkan di halaman"
+
+#: build/editSite.js:20
+msgid "Page details"
+msgstr "Detail halaman"
+
+#: build/editSite.js:20
+msgid "Featured image"
+msgstr "Gambar andalan"
+
+#: build/editSite.js:20
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: build/editSite.js:20
+msgid "Close settings"
+msgstr "Tutup pengaturan"
+
+#: build/editSite.js:20
+msgid "Plugins"
+msgstr "Plugin"
+
+#: build/editSite.js:20
+msgid "More"
+msgstr "Lainnya"
+
+#: build/editSite.js:20
+msgid "More tools & options"
+msgstr "Alat & opsi lain"
+
+#: build/editSite.js:20
+msgid "Add"
+msgstr "Tambah"
+
+#. translators: accessibility text for the footer landmark region.
+#: build/logoMenu.js:15
+msgid "Cache cleared"
+msgstr "Cache dibersihkan"
+
+#: build/logoMenu.js:15
+msgid "Site Editor"
+msgstr "Editor Situs"
+
+#: build/logoMenu.js:15
+msgid "Main menu"
+msgstr "Menu utama"
+
+#: build/logoMenu.js:15
+msgid "WordPress Management"
+msgstr "Manajemen WordPress"
+
+#: build/logoMenu.js:15
+msgid "Manage Plugins"
+msgstr "Kelola Plugin"
+
+#: build/logoMenu.js:15
+msgid "Manage Site Menus"
+msgstr "Kelola Menu Situs"
+
+#: build/logoMenu.js:15
+msgid "Customize Site Design"
+msgstr "Sesuaikan Desain Situs"
+
+#: build/logoMenu.js:15
+msgid "Manage Users"
+msgstr "Kelola Pengguna"
+
+#: build/logoMenu.js:15
+msgid "Manage Comments"
+msgstr "Kelola Komentar"
+
+#: build/logoMenu.js:15
+msgid "WordPress Admin"
+msgstr "Admin WordPress"
+
+#: build/logoMenu.js:15
+msgid "Hosting"
+msgstr ""
+
+#: build/logoMenu.js:15
+msgid "Hosting Overview"
+msgstr "Gambaran Umum Hosting"
+
+#: build/logoMenu.js:15
+msgid "Hosting Settings"
+msgstr "Pengaturan Hosting"
+
+#: build/logoMenu.js:15
+msgid "Tools"
+msgstr "Alat"
+
+#: build/logoMenu.js:15
+msgid "Editor Preference"
+msgstr "Preferensi Editor"
+
+#: build/logoMenu.js:15
+msgid "Is this editor right for you?"
+msgstr "Apakah editor ini tepat untuk Anda?"
+
+#: build/logoMenu.js:15
+msgid "Learn about other WordPress site building options here."
+msgstr "Pelajari tentang opsi pembuatan situs WordPress lainnya di sini."
+
+#: build/logoMenu.js:15
+msgid "Flush Cache"
+msgstr "Hapus Cache"
+
+#: build/logoMenu.js:15
+msgid "Connection Management"
+msgstr "Manajemen Koneksi"
+
+#: build/logoMenu.js:15
+msgid "Support"
+msgstr "Dukungan"
+
+#: build/logoMenu.js:15
+msgid "Give Feedback"
+msgstr "Beri Ulasan"
+
+#: build/logoMenu.js:15
+msgid "Help & Support"
+msgstr "Bantuan & Dukungan"
+
+#: packages/common/src/tooltip/index.js:28
+msgid "Info"
+msgstr ""
+
+#: packages/feedback-modal/src/feedback-modal-comment.js:25
+msgid "Tell us about your experience… (optional)"
+msgstr "Ceritakan pengalaman Anda... (opsional)"
+
+#: packages/feedback-modal/src/feedback-modal-comment.js:32
+msgid "Send"
+msgstr "Kirim"
+
+#: packages/feedback-modal/src/feedback-modal-success.js:15
+msgid "Thank you for sharing your feedback with us"
+msgstr "Terima kasih telah membagikan ulasan Anda"
+
+#: packages/feedback-modal/src/feedback-modal-success.js:21
+msgid "Close"
+msgstr "Tutup"
+
+#: packages/feedback-modal/src/index.js:99
+#: packages/feedback-modal/src/index.js:107
+#: packages/publish-guide/src/success-view.js:120
+msgid "Give feedback"
+msgstr "Beri ulasan"
+
+#: packages/feedback-modal/src/index.js:108
+msgid "How would you rate your experience?"
+msgstr "Berapa nilai pengalaman Anda?"
+
+#: packages/layout-selector/src/image-categories.js:23
+msgid "My site is about:"
+msgstr "Situs saya tentang:"
+
+#: packages/layout-selector/src/image-category-defaults.js:5
+msgid "Fashion"
+msgstr ""
+
+#: packages/layout-selector/src/image-category-defaults.js:9
+msgid "Home Decor"
+msgstr "Dekorasi Rumah"
+
+#: packages/layout-selector/src/image-category-defaults.js:13
+msgid "Coffee"
+msgstr "Kafe"
+
+#: packages/layout-selector/src/image-category-defaults.js:17
+msgid "Construction"
+msgstr "Konstruksi"
+
+#: packages/layout-selector/src/image-category-defaults.js:21
+msgid "Art"
+msgstr "Seni"
+
+#: packages/layout-selector/src/image-category-defaults.js:25
+msgid "Baking"
+msgstr "Memanggang"
+
+#: packages/layout-selector/src/image-category-defaults.js:29
+msgid "Fitness"
+msgstr "Kebugaran"
+
+#: packages/layout-selector/src/image-category-defaults.js:33
+msgid "Landscaping"
+msgstr "Tata Lanskap"
+
+#: packages/layout-selector/src/search.js:171
+msgid "Search"
+msgstr "Cari"
+
+#: packages/publish-guide/src/publish-guide-items/add-domain.js:27
+msgid "Add your domain"
+msgstr "Tambahkan domain Anda"
+
+#: packages/publish-guide/src/publish-guide-items/add-domain.js:28
+msgid ""
+"Look more professional and make it easier for customers to find your website."
+msgstr ""
+"Tampil lebih profesional dan bantu pengguna untuk menemukan situs web Anda."
+
+#: packages/publish-guide/src/publish-guide-items/add-domain.js:39
+msgid "Change"
+msgstr "Ubah"
+
+#: packages/publish-guide/src/publish-guide-items/add-domain.js:47
+msgid "Add domain"
+msgstr "Tambah domain"
+
+#: packages/publish-guide/src/publish-guide-items/site-content.js:20
+msgid "Review and add pages"
+msgstr "Tinjau dan tambahkan halaman"
+
+#: packages/publish-guide/src/publish-guide-items/site-content.js:21
+msgid "We got you started with a few. Add more pages and content."
+msgstr ""
+"Kami lihat konten dan halaman Anda masih sedikit. Tambahkan halaman dan "
+"konten."
+
+#: packages/publish-guide/src/publish-guide-items/site-content.js:32
+msgid "Manage pages"
+msgstr "Kelola halaman"
+
+#: packages/publish-guide/src/publish-guide-items/site-design.js:20
+msgid "Make the design your own"
+msgstr "Buat desain Anda sendiri"
+
+#: packages/publish-guide/src/publish-guide-items/site-design.js:21
+msgid "Update the colors, fonts and change the look and feel of your site."
+msgstr "Perbarui warna, font, dan ubah tampilan serta atmosfer situs Anda."
+
+#: packages/publish-guide/src/publish-guide-items/site-design.js:31
+msgid "Customize"
+msgstr "Sesuaikan"
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:131
+msgid "website logo"
+msgstr "logo situs web"
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:136
+msgid "Add your site info & brand"
+msgstr "Tambahkan info situs & merek"
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:137
+msgid ""
+"What’s the name of your site and what’s it’s purpose? Add a logo if you have "
+"one."
+msgstr "Apa nama situs Anda dan tujuan dibuat? Tambahkan logo jika Anda punya."
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:147
+msgid "Edit"
+msgstr ""
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:153
+msgid "Site title"
+msgstr "Judul situs"
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:159
+msgid "Site description"
+msgstr "Deskripsi situs"
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:169
+#: packages/publish-guide/src/publish-guide-items/site-info.js:183
+#: packages/publish-guide/src/publish-guide-items/site-info.js:187
+#: packages/publish-guide/src/publish-guide-items/site-info.js:200
+msgid "Upload site logo"
+msgstr "Unggah logo situs"
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:205
+msgid "Replace Logo"
+msgstr "Ganti Logo"
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:215
+msgid "Remove Logo"
+msgstr "Hapus Logo"
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:237
+msgid "Save"
+msgstr "Simpan"
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:244
+msgid "Do this later"
+msgstr "Lakukan ini nanti"
+
+#: packages/publish-guide/src/success-view.js:44
+msgid "Your site is live on"
+msgstr "Situs Anda sudah tayang di"
+
+#: packages/publish-guide/src/success-view.js:57
+msgid "Time to celebrate and"
+msgstr "Waktunya merayakan dan"
+
+#: packages/publish-guide/src/success-view.js:57
+msgid "share the great news."
+msgstr "berbagi kabar baik."
+
+#: packages/publish-guide/src/success-view.js:70
+#: packages/publish-guide/src/success-view.js:84
+#: packages/publish-guide/src/success-view.js:99
+msgid "Check out my new website!"
+msgstr "Kunjungi situs baru saya!"
+
+#. translators: %1$s is a placeholder for the site's url.
+#: packages/publish-guide/src/success-view.js:102
+msgid ""
+"I just published my website at %1$s, come check it out and let me know what "
+"you think!"
+msgstr ""
+"Saya baru saja menerbitkan situs web di %1$s, kunjungi dan beri tahu apa "
+"pendapat Anda!"
+
+#: packages/publish-guide/src/success-view.js:129
+msgid "Hide this guide"
+msgstr "Sembunyikan panduan ini"
+
+#: packages/site-content/src/post-menu-actions.js:51
+msgid "Select an action"
+msgstr "Pilih tindakan"
+
+#: packages/site-content/src/post-menu-actions.js:68
+msgid "Rename"
+msgstr "Ubah nama"
+
+#: packages/site-content/src/post-menu-actions.js:80
+msgid "Really set as homepage?"
+msgstr "Yakin mengaturnya sebagai halaman beranda?"
+
+#: packages/site-content/src/post-menu-actions.js:91
+msgid "Set as homepage"
+msgstr "Atur sebagai halaman beranda"
+
+#: packages/site-content/src/post-menu-actions.js:101
+msgid "Unpin post"
+msgstr "Lepas sematan postingan"
+
+#: packages/site-content/src/post-menu-actions.js:101
+msgid "Pin post"
+msgstr "Sematkan postingan"
+
+#: packages/site-content/src/post-menu-actions.js:111
+msgid "Duplicate"
+msgstr "Gandakan"
+
+#: packages/site-content/src/post-menu-actions.js:133
+msgid "Delete Page"
+msgstr "Hapus Halaman"
+
+#: packages/site-content/src/post-menu-actions.js:133
+msgid "Delete Post"
+msgstr "Hapus Postingan"
+
+#: packages/site-design/src/color-palette-preview.js:86
+msgid "Colors"
+msgstr "Warna"
+
+#: packages/site-design/src/color-palette-preview.js:98
+msgid "Color Palettes"
+msgstr "Palet Warna"
+
+#: packages/site-design/src/color-palette-preview.js:103
+#: packages/site-design/src/font-preview.js:85
+msgid "Custom"
+msgstr "Kustom"
+
+#: packages/site-design/src/design-preview.js:58
+msgid "Design Styles"
+msgstr "Gaya Desain"
+
+#: packages/site-design/src/design-preview.js:62
+msgid ""
+"Easily explore curated design styles, then customize your colors and fonts "
+"to get the perfect fit."
+msgstr ""
+"Telusuri gaya desain pilihan secara mudah, lalu sempurnakan dengan "
+"menyesuaikan warna dan font."
+
+#: packages/site-design/src/font-advanced.js:50
+msgid "Custom Font Options"
+msgstr "Opsi Font Kustom"
+
+#: packages/site-design/src/font-advanced.js:57
+msgid "HEADING"
+msgstr "JUDUL"
+
+#: packages/site-design/src/font-advanced.js:59
+#: packages/site-design/src/font-advanced.js:101
+msgid "Font"
+msgstr ""
+
+#: packages/site-design/src/font-advanced.js:72
+#: packages/site-design/src/font-advanced.js:115
+msgid "Weight"
+msgstr "Bobot"
+
+#: packages/site-design/src/font-advanced.js:85
+#: packages/site-design/src/font-advanced.js:128
+msgid "Size"
+msgstr "Ukuran"
+
+#: packages/site-design/src/font-advanced.js:98
+msgid "Heading font size"
+msgstr "Ukuran font judul"
+
+#: packages/site-design/src/font-advanced.js:99
+msgid "BODY"
+msgstr "ISI"
+
+#: packages/site-design/src/font-preview.js:43
+msgid "Fonts"
+msgstr "Font"
+
+#: packages/site-design/src/font-preview.js:49
+msgid "Font Pairings"
+msgstr "Pasangan Font"
+
+#: packages/site-design/src/font-preview.js:123
+msgid "The quick brown fox jumped over the lazy dog."
+msgstr "Sebegitu perjakanya si Qozy baca faidah sinar X di mobil VW."
+
+#: packages/site-design/src/font-preview.js:131
+msgid "Hide font sizes"
+msgstr "Sembunyikan ukuran font"
+
+#: packages/site-design/src/font-preview.js:131
+msgid "Edit font sizes"
+msgstr "Edit ukuran font"
+
+#: packages/site-design/src/font-size-picker.js:38
+msgid "Small"
+msgstr "Kecil"
+
+#: packages/site-design/src/font-size-picker.js:43
+msgid "Normal"
+msgstr ""
+
+#: packages/site-design/src/font-size-picker.js:48
+msgid "Large"
+msgstr "Besar"
+
+#: packages/site-design/src/font-size-picker.js:93
+msgid "Base size"
+msgstr "Ukuran base"
+
+#: packages/site-design/src/font-size-picker.js:98
+msgid "Font size"
+msgstr "Ukuran font"
+
+#: packages/site-design/src/font-size-picker.js:125
+msgid "Heading Scale"
+msgstr ""
+
+#: packages/site-design/src/index.js:154
+msgid "Site design"
+msgstr "Desain situs"
+
+#: packages/site-design/src/index.js:165
+msgid "Design"
+msgstr "Desain"
+
+#: packages/update-dependency/src/hooks/useWorkflow.js:52
+msgid "Update completed."
+msgstr "Pembaruan selesai."
+
+#: packages/update-dependency/src/index.js:28
+msgid "Updating to the latest and greatest"
+msgstr "Memperbarui ke versi terkini dan tercanggih"
+
+#: packages/update-dependency/src/index.js:31
+msgid "Please wait while we apply the latest update to your editor."
+msgstr "Mohon tunggu, kami sedang menerapkan pembaruan terkini editor Anda."
+
+#: packages/update-dependency/src/index.js:32
+msgid "This shouldn't take long."
+msgstr "Proses ini tidak akan lama."
+
+#: packages/wp-admin/src/themes-optout-modal/index.js:52
+msgid "This will change your site editor, too"
+msgstr "Ini juga akan mengubah editor situs Anda"
+
+#: packages/wp-admin/src/themes-optout-modal/index.js:54
+msgid ""
+"You are currently using the GoDaddy Site Editor with the Go theme, which "
+"gives you all of WordPress plus a way to customize your design, edit your "
+"pages and manage your pages, all from one place."
+msgstr ""
+"Saat ini Anda menggunakan Editor Situs GoDaddy dilengkapi Go theme, yang "
+"memberi Anda semua fitur WordPress sekaligus cara untuk membuat desain "
+"kustom, mengedit halaman, dan mengelola halaman Anda, semua dari satu tempat."
+
+#: packages/wp-admin/src/themes-optout-modal/index.js:58
+msgid ""
+"Once you activate a new theme, this site will no longer work with the "
+"GoDaddy Site Editor. Your site will switch to the default WordPress Editor "
+"instead."
+msgstr ""
+"Setelah Anda mengaktifkan tema baru, situs ini tidak bisa digunakan lagi "
+"dengan Editor Situs GoDaddy. Situs Anda akan beralih ke Editor WordPress "
+"default."
+
+#: packages/wp-admin/src/themes-optout-modal/index.js:61
+msgid ""
+"Ready to activate a new theme and switch to the default WordPress editor?"
+msgstr "Siap mengaktifkan tema baru dan beralih ke editor WordPress default?"
+
+#: packages/wp-admin/src/themes-optout-modal/index.js:74
+msgid "Activate"
+msgstr "Aktifkan"

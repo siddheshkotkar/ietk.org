@@ -1,0 +1,783 @@
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/project\n"
+"POT-Creation-Date: 2021-11-16T20:16:39+00:00\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: json2po\n"
+
+#. Plugin Name of the plugin
+msgid "NextGen"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.godaddy.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Next Generation WordPress Experience"
+msgstr "Næste generation af WordPress-oplevelsen"
+
+#. Author of the plugin
+msgid "GoDaddy"
+msgstr ""
+
+#: includes/class-layout-selector.php:84
+msgid "Generic"
+msgstr "Generisk"
+
+#: includes/class-layout-selector.php:110
+msgid "Image category."
+msgstr "Billedkategori."
+
+#: includes/class-publish-guide.php:142
+msgid "Display Publish Guide."
+msgstr "Vis udgivelsesguiden."
+
+#: includes/class-site-design.php:344
+msgid "Error processing your request."
+msgstr "Der opstod en fejl under behandling af din anmodning."
+
+#: includes/class-site-design.php:368
+msgid "A design_style must be passed."
+msgstr "design_style skal overføres."
+
+#: includes/class-site-design.php:380
+msgid "An available design_style must be passed."
+msgstr "Tilgængeligt design_style skal overføres."
+
+#. translators: %s: GoDaddy.
+#: includes/class-wp-admin.php:91
+msgid "Go by %s"
+msgstr "Go af %s"
+
+#: build/editorPreferenceModal.js:1
+msgid "Would you like to keep using the GoDaddy Site Editor?"
+msgstr "Vil du fortsætte med at bruge GoDaddy webstedseditor?"
+
+#: build/editorPreferenceModal.js:1
+msgid ""
+"We want to make sure you have the right tools to build your site. You are "
+"currently using the GoDaddy Site editor, which gives you all of WordPress "
+"plus a way to customize your design, edit your pages, and manage your pages, "
+"all from one place."
+msgstr ""
+"Vi vil sikre os, at du har de rigtige redskaber til at bygge dit websted. Du "
+"benytter i øjeblikket GoDaddy webstedseditor, hvilket giver dig alt fra "
+"WordPress samt en måde at tilpasse dit design på, redigere dine sider og "
+"administrere dine sider – alt sammen fra ét sted."
+
+#: build/editorPreferenceModal.js:1
+msgid "Yes, keep using it"
+msgstr "Ja, fortsæt med at brug den"
+
+#: build/editorPreferenceModal.js:1
+msgid "No, I want to see other options"
+msgstr "Nej, jeg vil se andre muligheder"
+
+#: build/editorPreferenceModal.js:1
+msgid "We’re sorry this wasn’t the right fit for you"
+msgstr "Vi er kede af at høre, at dette ikke lige var dig"
+
+#: build/editorPreferenceModal.js:1
+msgid "Could you tell us why?"
+msgstr "Vil du venligst fortælle os hvorfor?"
+
+#: build/editorPreferenceModal.js:1
+msgid "Tell us why this wasn’t the right fit for you…"
+msgstr "Fortæl os, hvorfor dette ikke lige var dig ..."
+
+#: build/editorPreferenceModal.js:1
+#: packages/wp-admin/src/themes-optout-modal/index.js:68
+msgid "Go Back"
+msgstr "Gå tilbage"
+
+#: build/editorPreferenceModal.js:1
+msgid "Skip"
+msgstr "Spring over"
+
+#: build/editorPreferenceModal.js:1
+msgid "Continue"
+msgstr "Fortsæt"
+
+#: build/editorPreferenceModal.js:1
+msgid "Let’s find you a better fit"
+msgstr "Lad os finde noget, som passer bedre til dig"
+
+#: build/editorPreferenceModal.js:1
+msgid "Here are some other options to explore:"
+msgstr "Her er nogle muligheder, du kan se nærmere på:"
+
+#: build/editorPreferenceModal.js:1
+msgid "Switch to the default WordPress editor"
+msgstr "Skift til standard WordPress-editor"
+
+#: build/editorPreferenceModal.js:1
+msgid "Switch to a 3rd party page builder"
+msgstr "Skift til et sidebygningsprogram fra en tredjepart"
+
+#: build/editorPreferenceModal.js:1
+msgid "Talk to someone about my options"
+msgstr "Tal med nogen om mine muligheder"
+
+#: build/editorPreferenceModal.js:1
+msgid "Hire our experts to build your site for you"
+msgstr "Få vores eksperter til at bygge din site for dig"
+
+#: build/editorPreferenceModal.js:1
+msgid "Learn More"
+msgstr "Få mere at vide"
+
+#: build/editorPreferenceModal.js:1
+msgid "Switching to the default WordPress editor"
+msgstr "Skifter til standard WordPress-editor"
+
+#: build/editorPreferenceModal.js:1
+msgid "You should switch to the default WordPress editor if:"
+msgstr "Du bør skifte til standard WordPress-editor, hvis:"
+
+#: build/editorPreferenceModal.js:1
+msgid "You want to use a different theme"
+msgstr "du vil bruge et andet tema"
+
+#: build/editorPreferenceModal.js:1
+msgid "You are familiar with and/or prefer to use default WordPress"
+msgstr ""
+"du er bekendt med og/eller foretrækker at bruge standard WordPress-editor."
+
+#: build/editorPreferenceModal.js:1
+msgid ""
+"Once you switch, this site will no longer work with the GoDaddy Site Editor, "
+"so you won’t be able to come back."
+msgstr ""
+"Når først du skifter, fungerer dette websted ikke længere med GoDaddy-"
+"webstedseditor, så du kan ikke gå tilbage."
+
+#: build/editorPreferenceModal.js:1
+msgid "Ready to switch this site to the default WordPress editor?"
+msgstr "Er du klar til at skifte til standard WordPress-editor?"
+
+#: build/editorPreferenceModal.js:1
+msgid "Switch to Default"
+msgstr "Skift til standard"
+
+#: build/editorPreferenceModal.js:1
+msgid "Switching to a 3rd Party Page Builder"
+msgstr "Skifter til et sidebygningsprogram fra en tredjepart"
+
+#: build/editorPreferenceModal.js:1
+msgid ""
+"A 3rd party page builder is a WordPress plugin that you install on your "
+"site, that allows you to build and design pages."
+msgstr ""
+"Et sidebygningsprogram fra en tredjepart er en WordPress-plugin, som du "
+"installerer på dit websted, og det giver dig mulighed for at bygge og "
+"designe sider."
+
+#: build/editorPreferenceModal.js:1
+msgid "Ready to switch this site to a 3rd party page builder?"
+msgstr ""
+"Er du klar til skifte dette websted til et sidebygningsprogram fra en "
+"tredjepart?"
+
+#: build/editorPreferenceModal.js:1
+msgid "View Plugins"
+msgstr "Se plugins"
+
+#: build/editorPreferenceModal.js:1
+msgid "Expert help is on the way"
+msgstr "Eksperthjælp er på vej"
+
+#: build/editorPreferenceModal.js:1
+msgid "Contact our GoDaddy guides to get started."
+msgstr "Kontakt vores GoDaddy-guider for at komme i gang."
+
+#: build/editorPreferenceModal.js:1
+msgid "Contact Us"
+msgstr "Kontakt os"
+
+#: build/editorPreferenceModal.js:1
+msgid ""
+"We'll build a stunning professional website, custom tailored to your business"
+msgstr ""
+"Vi bygger et enestående websted, som er skræddersyet til din virksomhed"
+
+#: build/editorPreferenceModal.js:1
+msgid "Redirecting you to the WordPress Admin…"
+msgstr "Omdirigerer dig til WordPress admin ..."
+
+#: build/editorPreferenceModal.js:1
+msgid "Redirecting you to WordPress plugins…"
+msgstr "Omdirigerer dig til WordPress-plugins ..."
+
+#: build/editorPreferenceModal.js:1
+msgid ""
+"We appreciate your feedback and want to make sure you have the right tools "
+"to build your site. You are currently using the GoDaddy Site editor, which "
+"gives you all of WordPress plus a way to customize your design, edit your "
+"pages, and manage your pages, all from one place."
+msgstr ""
+"Vi sætter pris på din feedback, og vil sikre os, at du har de rigtige "
+"redskaber til at bygge dit websted. Du benytter i øjeblikket GoDaddy "
+"webstedseditor, hvilket giver dig alt fra WordPress samt en måde at tilpasse "
+"dit design på, redigere dine sider og administrere dine sider – alt sammen "
+"fra ét sted."
+
+#. translators: Default label for the Document sidebar tab, not selected.
+#: build/editSite.js:16
+msgid "Document"
+msgstr "Dokument"
+
+#. translators: ARIA label for the Document sidebar tab, selected. %s Document label.
+#: build/editSite.js:17
+msgid "%s (selected)"
+msgstr "%s (valgt)"
+
+#. translators: ARIA label for the Block Settings Sidebar tab, selected.
+#: build/editSite.js:18
+msgid "Block (selected)"
+msgstr "Blok (valgt)"
+
+#. translators: ARIA label for the Block Settings Sidebar tab, not selected.
+#. translators: Text label for the Block Settings Sidebar tab.
+#: build/editSite.js:19 build/editSite.js:20
+msgid "Block"
+msgstr "Bloker"
+
+#. translators: Text label for the Block Settings Sidebar tab.
+#: build/editSite.js:20
+msgid "Visibility"
+msgstr "Synlighed"
+
+#: build/editSite.js:20
+msgid "Publish"
+msgstr "Udgiv"
+
+#: build/editSite.js:20 packages/site-content/src/post-menu-actions.js:122
+msgid "Really delete?"
+msgstr "Vil du virkelig slette?"
+
+#: build/editSite.js:20
+msgid "Delete this page"
+msgstr "Slet denne side"
+
+#: build/editSite.js:20
+msgid "Title"
+msgstr "Titel"
+
+#: build/editSite.js:20
+msgid "Display on page"
+msgstr "Vis på side"
+
+#: build/editSite.js:20
+msgid "Page details"
+msgstr "Sidedetaljer"
+
+#: build/editSite.js:20
+msgid "Featured image"
+msgstr "Udvalgt billede"
+
+#: build/editSite.js:20
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: build/editSite.js:20
+msgid "Close settings"
+msgstr "Luk indstillinger"
+
+#: build/editSite.js:20
+msgid "Plugins"
+msgstr ""
+
+#: build/editSite.js:20
+msgid "More"
+msgstr "Mere"
+
+#: build/editSite.js:20
+msgid "More tools & options"
+msgstr "Flere værktøjer og muligheder"
+
+#: build/editSite.js:20
+msgid "Add"
+msgstr "Tilføj"
+
+#. translators: accessibility text for the footer landmark region.
+#: build/logoMenu.js:15
+msgid "Cache cleared"
+msgstr "Cache blev ryddet"
+
+#: build/logoMenu.js:15
+msgid "Site Editor"
+msgstr "Webstedseditor"
+
+#: build/logoMenu.js:15
+msgid "Main menu"
+msgstr "Hovedmenu"
+
+#: build/logoMenu.js:15
+msgid "WordPress Management"
+msgstr "WordPress-administration"
+
+#: build/logoMenu.js:15
+msgid "Manage Plugins"
+msgstr "Administrer plugins"
+
+#: build/logoMenu.js:15
+msgid "Manage Site Menus"
+msgstr "Administrer webstedsmenuer"
+
+#: build/logoMenu.js:15
+msgid "Customize Site Design"
+msgstr "Tilpas webstedsdesign"
+
+#: build/logoMenu.js:15
+msgid "Manage Users"
+msgstr "Administrér brugere"
+
+#: build/logoMenu.js:15
+msgid "Manage Comments"
+msgstr "Administrer kommentarer"
+
+#: build/logoMenu.js:15
+msgid "WordPress Admin"
+msgstr "WordPress-administrator"
+
+#: build/logoMenu.js:15
+msgid "Hosting"
+msgstr ""
+
+#: build/logoMenu.js:15
+msgid "Hosting Overview"
+msgstr "Hostingoversigt"
+
+#: build/logoMenu.js:15
+msgid "Hosting Settings"
+msgstr "Indstillinger for hosting"
+
+#: build/logoMenu.js:15
+msgid "Tools"
+msgstr "Værktøjer"
+
+#: build/logoMenu.js:15
+msgid "Editor Preference"
+msgstr "Editorpræference"
+
+#: build/logoMenu.js:15
+msgid "Is this editor right for you?"
+msgstr "Er denne editor den rette for dig?"
+
+#: build/logoMenu.js:15
+msgid "Learn about other WordPress site building options here."
+msgstr ""
+"Få mere at vide om andre muligheder for bygning af et WordPress-websted her."
+
+#: build/logoMenu.js:15
+msgid "Flush Cache"
+msgstr "Ryd cache"
+
+#: build/logoMenu.js:15
+msgid "Connection Management"
+msgstr "Styring af forbindelsen"
+
+#: build/logoMenu.js:15
+msgid "Support"
+msgstr ""
+
+#: build/logoMenu.js:15
+msgid "Give Feedback"
+msgstr "Giv feedback"
+
+#: build/logoMenu.js:15
+msgid "Help & Support"
+msgstr "Hjælp og support"
+
+#: packages/common/src/tooltip/index.js:28
+msgid "Info"
+msgstr ""
+
+#: packages/feedback-modal/src/feedback-modal-comment.js:25
+msgid "Tell us about your experience… (optional)"
+msgstr "Fortæl os om din oplevelse ... (valgfrit)"
+
+#: packages/feedback-modal/src/feedback-modal-comment.js:32
+msgid "Send"
+msgstr "Afsend"
+
+#: packages/feedback-modal/src/feedback-modal-success.js:15
+msgid "Thank you for sharing your feedback with us"
+msgstr "Tak fordi du delte din feedback med os"
+
+#: packages/feedback-modal/src/feedback-modal-success.js:21
+msgid "Close"
+msgstr "Luk"
+
+#: packages/feedback-modal/src/index.js:99
+#: packages/feedback-modal/src/index.js:107
+#: packages/publish-guide/src/success-view.js:120
+msgid "Give feedback"
+msgstr "Giv feedback"
+
+#: packages/feedback-modal/src/index.js:108
+msgid "How would you rate your experience?"
+msgstr "Hvordan vil du bedømme din oplevelse?"
+
+#: packages/layout-selector/src/image-categories.js:23
+msgid "My site is about:"
+msgstr "Mit websted handler om:"
+
+#: packages/layout-selector/src/image-category-defaults.js:5
+msgid "Fashion"
+msgstr "Mode"
+
+#: packages/layout-selector/src/image-category-defaults.js:9
+msgid "Home Decor"
+msgstr "Boligindretning"
+
+#: packages/layout-selector/src/image-category-defaults.js:13
+msgid "Coffee"
+msgstr "Kaffe"
+
+#: packages/layout-selector/src/image-category-defaults.js:17
+msgid "Construction"
+msgstr "Konstruktion"
+
+#: packages/layout-selector/src/image-category-defaults.js:21
+msgid "Art"
+msgstr "Kunst"
+
+#: packages/layout-selector/src/image-category-defaults.js:25
+msgid "Baking"
+msgstr "Bagning"
+
+#: packages/layout-selector/src/image-category-defaults.js:29
+msgid "Fitness"
+msgstr ""
+
+#: packages/layout-selector/src/image-category-defaults.js:33
+msgid "Landscaping"
+msgstr "Haveanlæg"
+
+#: packages/layout-selector/src/search.js:171
+msgid "Search"
+msgstr "Søg"
+
+#: packages/publish-guide/src/publish-guide-items/add-domain.js:27
+msgid "Add your domain"
+msgstr "Tilføj dit domæne"
+
+#: packages/publish-guide/src/publish-guide-items/add-domain.js:28
+msgid ""
+"Look more professional and make it easier for customers to find your website."
+msgstr ""
+"Få et mere professionelt udtryk og gør det nemmere for dine kunder at finde "
+"dit website."
+
+#: packages/publish-guide/src/publish-guide-items/add-domain.js:39
+msgid "Change"
+msgstr "Skift"
+
+#: packages/publish-guide/src/publish-guide-items/add-domain.js:47
+msgid "Add domain"
+msgstr "Tilføj domæne"
+
+#: packages/publish-guide/src/publish-guide-items/site-content.js:20
+msgid "Review and add pages"
+msgstr "Gennemse og tilføj sider"
+
+#: packages/publish-guide/src/publish-guide-items/site-content.js:21
+msgid "We got you started with a few. Add more pages and content."
+msgstr "Her er et par til at starte med. Tilføj fleres sider og indhold."
+
+#: packages/publish-guide/src/publish-guide-items/site-content.js:32
+msgid "Manage pages"
+msgstr "Administrer sider"
+
+#: packages/publish-guide/src/publish-guide-items/site-design.js:20
+msgid "Make the design your own"
+msgstr "Gør designet til dit eget"
+
+#: packages/publish-guide/src/publish-guide-items/site-design.js:21
+msgid "Update the colors, fonts and change the look and feel of your site."
+msgstr "Opdater farver, skrifttyper og skift dit websites look og udtryk."
+
+#: packages/publish-guide/src/publish-guide-items/site-design.js:31
+msgid "Customize"
+msgstr "Tilpas"
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:131
+msgid "website logo"
+msgstr "website-logo"
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:136
+msgid "Add your site info & brand"
+msgstr "Tilføj webstedsoplysninger og branding"
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:137
+msgid ""
+"What’s the name of your site and what’s it’s purpose? Add a logo if you have "
+"one."
+msgstr ""
+"Hvad er dit navnet på dit website, og hvad er dets formål? Tilføj et logo, "
+"hvis du har et,"
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:147
+msgid "Edit"
+msgstr "Rediger"
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:153
+msgid "Site title"
+msgstr "Webstedstitel"
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:159
+msgid "Site description"
+msgstr "Webstedsbeskrivelse"
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:169
+#: packages/publish-guide/src/publish-guide-items/site-info.js:183
+#: packages/publish-guide/src/publish-guide-items/site-info.js:187
+#: packages/publish-guide/src/publish-guide-items/site-info.js:200
+msgid "Upload site logo"
+msgstr "Upload webstedslogo"
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:205
+msgid "Replace Logo"
+msgstr "Udskift logo"
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:215
+msgid "Remove Logo"
+msgstr "Fjern logo"
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:237
+msgid "Save"
+msgstr "Gem"
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:244
+msgid "Do this later"
+msgstr "Gør det senere"
+
+#: packages/publish-guide/src/success-view.js:44
+msgid "Your site is live on"
+msgstr "Dit websted er live på"
+
+#: packages/publish-guide/src/success-view.js:57
+msgid "Time to celebrate and"
+msgstr "Så er det tid til at fejre og"
+
+#: packages/publish-guide/src/success-view.js:57
+msgid "share the great news."
+msgstr "dele de gode nyheder,"
+
+#: packages/publish-guide/src/success-view.js:70
+#: packages/publish-guide/src/success-view.js:84
+#: packages/publish-guide/src/success-view.js:99
+msgid "Check out my new website!"
+msgstr "Se mit nye website!"
+
+#. translators: %1$s is a placeholder for the site's url.
+#: packages/publish-guide/src/success-view.js:102
+msgid ""
+"I just published my website at %1$s, come check it out and let me know what "
+"you think!"
+msgstr ""
+"Jeg har netop udgivet mit website på %1$s, tjek det og lad mig høre, hvad du "
+"synes."
+
+#: packages/publish-guide/src/success-view.js:129
+msgid "Hide this guide"
+msgstr "Skjul denne guide"
+
+#: packages/site-content/src/post-menu-actions.js:51
+msgid "Select an action"
+msgstr "Vælg en handling"
+
+#: packages/site-content/src/post-menu-actions.js:68
+msgid "Rename"
+msgstr "Omdøb"
+
+#: packages/site-content/src/post-menu-actions.js:80
+msgid "Really set as homepage?"
+msgstr "Skal den angives som startside?"
+
+#: packages/site-content/src/post-menu-actions.js:91
+msgid "Set as homepage"
+msgstr "Angiv som startside"
+
+#: packages/site-content/src/post-menu-actions.js:101
+msgid "Unpin post"
+msgstr "Frigør opslag"
+
+#: packages/site-content/src/post-menu-actions.js:101
+msgid "Pin post"
+msgstr "Fastgør opslag"
+
+#: packages/site-content/src/post-menu-actions.js:111
+msgid "Duplicate"
+msgstr "Dupliker"
+
+#: packages/site-content/src/post-menu-actions.js:133
+msgid "Delete Page"
+msgstr "Slet side"
+
+#: packages/site-content/src/post-menu-actions.js:133
+msgid "Delete Post"
+msgstr "Slet opslag"
+
+#: packages/site-design/src/color-palette-preview.js:86
+msgid "Colors"
+msgstr "Farver"
+
+#: packages/site-design/src/color-palette-preview.js:98
+msgid "Color Palettes"
+msgstr "Farvepaletter"
+
+#: packages/site-design/src/color-palette-preview.js:103
+#: packages/site-design/src/font-preview.js:85
+msgid "Custom"
+msgstr "Tilpasset"
+
+#: packages/site-design/src/design-preview.js:58
+msgid "Design Styles"
+msgstr "Designtyper"
+
+#: packages/site-design/src/design-preview.js:62
+msgid ""
+"Easily explore curated design styles, then customize your colors and fonts "
+"to get the perfect fit."
+msgstr ""
+"Du kan nemt udforske arrangerede designtypografier og derefter tilpasse dine "
+"farver og skrifttyper, så det passer perfekt."
+
+#: packages/site-design/src/font-advanced.js:50
+msgid "Custom Font Options"
+msgstr "Tilpassede skrifttypemuligheder"
+
+#: packages/site-design/src/font-advanced.js:57
+msgid "HEADING"
+msgstr "OVERSKRIFT"
+
+#: packages/site-design/src/font-advanced.js:59
+#: packages/site-design/src/font-advanced.js:101
+msgid "Font"
+msgstr "Skrifttype"
+
+#: packages/site-design/src/font-advanced.js:72
+#: packages/site-design/src/font-advanced.js:115
+msgid "Weight"
+msgstr "Vægt"
+
+#: packages/site-design/src/font-advanced.js:85
+#: packages/site-design/src/font-advanced.js:128
+msgid "Size"
+msgstr "Størrelse"
+
+#: packages/site-design/src/font-advanced.js:98
+msgid "Heading font size"
+msgstr "Skriftstørrelse i overskrift"
+
+#: packages/site-design/src/font-advanced.js:99
+msgid "BODY"
+msgstr "BRØDTEKST"
+
+#: packages/site-design/src/font-preview.js:43
+msgid "Fonts"
+msgstr "Skrifttyper"
+
+#: packages/site-design/src/font-preview.js:49
+msgid "Font Pairings"
+msgstr "Pardannelse med skrifttyper"
+
+#: packages/site-design/src/font-preview.js:123
+msgid "The quick brown fox jumped over the lazy dog."
+msgstr ""
+
+#: packages/site-design/src/font-preview.js:131
+msgid "Hide font sizes"
+msgstr "Skjul skrifttypestørrelserne"
+
+#: packages/site-design/src/font-preview.js:131
+msgid "Edit font sizes"
+msgstr "Rediger skrifttypestørrelserne"
+
+#: packages/site-design/src/font-size-picker.js:38
+msgid "Small"
+msgstr "Lille"
+
+#: packages/site-design/src/font-size-picker.js:43
+msgid "Normal"
+msgstr ""
+
+#: packages/site-design/src/font-size-picker.js:48
+msgid "Large"
+msgstr "Stor"
+
+#: packages/site-design/src/font-size-picker.js:93
+msgid "Base size"
+msgstr "Standardstørrelse"
+
+#: packages/site-design/src/font-size-picker.js:98
+msgid "Font size"
+msgstr "Skrifttypestørrelse"
+
+#: packages/site-design/src/font-size-picker.js:125
+msgid "Heading Scale"
+msgstr "Skalering af overskrift"
+
+#: packages/site-design/src/index.js:154
+msgid "Site design"
+msgstr "Webstedsdesign"
+
+#: packages/site-design/src/index.js:165
+msgid "Design"
+msgstr ""
+
+#: packages/update-dependency/src/hooks/useWorkflow.js:52
+msgid "Update completed."
+msgstr "Opdatering er fuldført."
+
+#: packages/update-dependency/src/index.js:28
+msgid "Updating to the latest and greatest"
+msgstr "Opdaterer til det nyeste og bedste"
+
+#: packages/update-dependency/src/index.js:31
+msgid "Please wait while we apply the latest update to your editor."
+msgstr "Vent, mens vi anvender den seneste opdatering til din editor."
+
+#: packages/update-dependency/src/index.js:32
+msgid "This shouldn't take long."
+msgstr "Det burde ikke tage ret lang tid."
+
+#: packages/wp-admin/src/themes-optout-modal/index.js:52
+msgid "This will change your site editor, too"
+msgstr "Dette vil også ændre din webstedseditor"
+
+#: packages/wp-admin/src/themes-optout-modal/index.js:54
+msgid ""
+"You are currently using the GoDaddy Site Editor with the Go theme, which "
+"gives you all of WordPress plus a way to customize your design, edit your "
+"pages and manage your pages, all from one place."
+msgstr ""
+"Du benytter i øjeblikket GoDaddy webstedseditor med Go-temaet, hvilket giver "
+"dig alt fra WordPress samt en måde at tilpasse dit design på, redigere dine "
+"sider og administrere dine sider – alt sammen fra ét sted."
+
+#: packages/wp-admin/src/themes-optout-modal/index.js:58
+msgid ""
+"Once you activate a new theme, this site will no longer work with the "
+"GoDaddy Site Editor. Your site will switch to the default WordPress Editor "
+"instead."
+msgstr ""
+"Når du aktiverer et nyt tema, fungerer dette websted ikke længere med "
+"GoDaddy webstedseditor. Dit websted skifter til standard WordPress-editor i "
+"stedet for."
+
+#: packages/wp-admin/src/themes-optout-modal/index.js:61
+msgid ""
+"Ready to activate a new theme and switch to the default WordPress editor?"
+msgstr ""
+"Er du klar til at aktivere et nyt tema og skifte til standard WordPress-"
+"editoren?"
+
+#: packages/wp-admin/src/themes-optout-modal/index.js:74
+msgid "Activate"
+msgstr "Aktivér"

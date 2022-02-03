@@ -1,0 +1,766 @@
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/project\n"
+"POT-Creation-Date: 2021-11-16T20:16:39+00:00\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: json2po\n"
+
+#. Plugin Name of the plugin
+msgid "NextGen"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.godaddy.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Next Generation WordPress Experience"
+msgstr "ประสบการณ์ใช้งาน WordPress รุ่นถัดไป"
+
+#. Author of the plugin
+msgid "GoDaddy"
+msgstr ""
+
+#: includes/class-layout-selector.php:84
+msgid "Generic"
+msgstr "ทั่วไป"
+
+#: includes/class-layout-selector.php:110
+msgid "Image category."
+msgstr "หมวดหมู่รูปภาพ"
+
+#: includes/class-publish-guide.php:142
+msgid "Display Publish Guide."
+msgstr "แสดงแนวทางการเผยแพร่"
+
+#: includes/class-site-design.php:344
+msgid "Error processing your request."
+msgstr "เกิดข้อผิดพลาดในการดำเนินการตามคำขอของคุณ"
+
+#: includes/class-site-design.php:368
+msgid "A design_style must be passed."
+msgstr "design_style จะต้องผ่าน"
+
+#: includes/class-site-design.php:380
+msgid "An available design_style must be passed."
+msgstr "design_style ที่มีอยู่จะต้องผ่าน"
+
+#. translators: %s: GoDaddy.
+#: includes/class-wp-admin.php:91
+msgid "Go by %s"
+msgstr "ธีม Go โดย %s"
+
+#: build/editorPreferenceModal.js:1
+msgid "Would you like to keep using the GoDaddy Site Editor?"
+msgstr "คุณต้องการใช้ตัวแก้ไขเว็บของ GoDaddy ต่อไปหรือไม่"
+
+#: build/editorPreferenceModal.js:1
+msgid ""
+"We want to make sure you have the right tools to build your site. You are "
+"currently using the GoDaddy Site editor, which gives you all of WordPress "
+"plus a way to customize your design, edit your pages, and manage your pages, "
+"all from one place."
+msgstr ""
+"เราอยากแน่ใจว่าคุณมีเครื่องมือที่เหมาะสมในการสร้างเว็บของคุณ ขณะนี้คุณกำลังใช้งานตัวแก้ไขเว็บของ "
+"GoDaddy ซึ่งมีคุณสมบัติทุกอย่างของ WordPress รวมถึงวิธีปรับแต่งงานออกแบบ แก้ไขหน้า "
+"และจัดการหน้า ทำได้ทุกอย่างจากจุดเดียว"
+
+#: build/editorPreferenceModal.js:1
+msgid "Yes, keep using it"
+msgstr "ใช่ ใช้ต่อไป"
+
+#: build/editorPreferenceModal.js:1
+msgid "No, I want to see other options"
+msgstr "ไม่ ฉันอยากดูตัวเลือกอื่น"
+
+#: build/editorPreferenceModal.js:1
+msgid "We’re sorry this wasn’t the right fit for you"
+msgstr "ขออภัยที่สิ่งนี้ไม่เหมาะกับคุณ"
+
+#: build/editorPreferenceModal.js:1
+msgid "Could you tell us why?"
+msgstr "โปรดบอกเหตุผลได้ไหม"
+
+#: build/editorPreferenceModal.js:1
+msgid "Tell us why this wasn’t the right fit for you…"
+msgstr "บอกเราว่าเหตุใดสิ่งนี้จึงไม่เหมาะกับคุณ…"
+
+#: build/editorPreferenceModal.js:1
+#: packages/wp-admin/src/themes-optout-modal/index.js:68
+msgid "Go Back"
+msgstr "ย้อนกลับ"
+
+#: build/editorPreferenceModal.js:1
+msgid "Skip"
+msgstr "ข้าม"
+
+#: build/editorPreferenceModal.js:1
+msgid "Continue"
+msgstr "ดำเนินการต่อ"
+
+#: build/editorPreferenceModal.js:1
+msgid "Let’s find you a better fit"
+msgstr "มาหาสิ่งอื่นที่เหมาะกับคุณมากกว่ากันเถอะ"
+
+#: build/editorPreferenceModal.js:1
+msgid "Here are some other options to explore:"
+msgstr "นี่เป็นตัวเลือกอื่นที่จะลองสำรวจดูได้:"
+
+#: build/editorPreferenceModal.js:1
+msgid "Switch to the default WordPress editor"
+msgstr "เปลี่ยนไปใช้ตัวแก้ไข WordPress เริ่มต้น"
+
+#: build/editorPreferenceModal.js:1
+msgid "Switch to a 3rd party page builder"
+msgstr "เปลี่ยนไปใช้ตัวสร้างหน้าเพจของบุคคลภายนอก"
+
+#: build/editorPreferenceModal.js:1
+msgid "Talk to someone about my options"
+msgstr "คุยกับผู้อื่นเกี่ยวกับตัวเลือกของฉัน"
+
+#: build/editorPreferenceModal.js:1
+msgid "Hire our experts to build your site for you"
+msgstr "จ้างผู้เชี่ยวชาญของเราสร้างเว็บไซต์ให้คุณ"
+
+#: build/editorPreferenceModal.js:1
+msgid "Learn More"
+msgstr "เรียนรู้เพิ่มเติม"
+
+#: build/editorPreferenceModal.js:1
+msgid "Switching to the default WordPress editor"
+msgstr "กำลังเปลี่ยนไปใช้ตัวแก้ไข WordPress เริ่มต้น"
+
+#: build/editorPreferenceModal.js:1
+msgid "You should switch to the default WordPress editor if:"
+msgstr "คุณควรเปลี่ยนไปใช้ตัวแก้ไข WordPress เริ่มต้น หาก:"
+
+#: build/editorPreferenceModal.js:1
+msgid "You want to use a different theme"
+msgstr "คุณต้องการใช้ธีมอื่น"
+
+#: build/editorPreferenceModal.js:1
+msgid "You are familiar with and/or prefer to use default WordPress"
+msgstr "คุณคุ้นเคยและ/หรือชอบใช้ตัวแก้ไข WordPress เริ่มต้นมากกว่า"
+
+#: build/editorPreferenceModal.js:1
+msgid ""
+"Once you switch, this site will no longer work with the GoDaddy Site Editor, "
+"so you won’t be able to come back."
+msgstr ""
+"เมื่อเปลี่ยนแล้ว เว็บนี้จะไม่ทำงานร่วมกับตัวแก้ไขเว็บของ GoDaddy อีกต่อไป "
+"คุณจะไม่สามารถกลับมาได้อีก"
+
+#: build/editorPreferenceModal.js:1
+msgid "Ready to switch this site to the default WordPress editor?"
+msgstr "พร้อมจะเปลี่ยนเว็บนี้ไปใช้ตัวแก้ไข WordPress เริ่มต้นหรือไม่"
+
+#: build/editorPreferenceModal.js:1
+msgid "Switch to Default"
+msgstr "เปลี่ยนไปใช้ตัวแก้ไขเริ่มต้น"
+
+#: build/editorPreferenceModal.js:1
+msgid "Switching to a 3rd Party Page Builder"
+msgstr "การเปลี่ยนไปใช้ตัวสร้างหน้าเพจของบุคคลภายนอก"
+
+#: build/editorPreferenceModal.js:1
+msgid ""
+"A 3rd party page builder is a WordPress plugin that you install on your "
+"site, that allows you to build and design pages."
+msgstr ""
+"ตัวสร้างหน้าเพจของบุคคลภายนอกเป็นปลั๊กอินของ WordPress ที่คุณติดตั้งในเว็บ "
+"ซึ่งจะช่วยให้คุณสร้างและออกแบบหน้าเพจได้"
+
+#: build/editorPreferenceModal.js:1
+msgid "Ready to switch this site to a 3rd party page builder?"
+msgstr "พร้อมจะเปลี่ยนเว็บนี้ไปใช้ตัวสร้างหน้าเพจของบุคคลภายนอกหรือไม่"
+
+#: build/editorPreferenceModal.js:1
+msgid "View Plugins"
+msgstr "ดูปลั๊กอิน"
+
+#: build/editorPreferenceModal.js:1
+msgid "Expert help is on the way"
+msgstr "คุณกำลังจะได้รับความช่วยเหลือจากผู้เชี่ยวชาญ"
+
+#: build/editorPreferenceModal.js:1
+msgid "Contact our GoDaddy guides to get started."
+msgstr "ติดต่อเจ้าหน้าที่ GoDaddy เพื่อเริ่มใช้งาน"
+
+#: build/editorPreferenceModal.js:1
+msgid "Contact Us"
+msgstr "ติดต่อเรา"
+
+#: build/editorPreferenceModal.js:1
+msgid ""
+"We'll build a stunning professional website, custom tailored to your business"
+msgstr "เราจะสร้างเว็บไซต์ระดับมืออาชีพที่สวยงามและปรับให้เหมาะสมกับธุรกิจของคุณโดยเฉพาะ"
+
+#: build/editorPreferenceModal.js:1
+msgid "Redirecting you to the WordPress Admin…"
+msgstr "กำลังเปลี่ยนเส้นทางคุณไปยังระบบดูแล WordPress…"
+
+#: build/editorPreferenceModal.js:1
+msgid "Redirecting you to WordPress plugins…"
+msgstr "กำลังเปลี่ยนเส้นทางคุณไปที่ปลั๊กอิน WordPress…"
+
+#: build/editorPreferenceModal.js:1
+msgid ""
+"We appreciate your feedback and want to make sure you have the right tools "
+"to build your site. You are currently using the GoDaddy Site editor, which "
+"gives you all of WordPress plus a way to customize your design, edit your "
+"pages, and manage your pages, all from one place."
+msgstr ""
+"เราขอขอบคุณในข้อเสนอแนะและอยากแน่ใจว่าคุณมีเครื่องมือที่เหมาะสมในการสร้างเว็บของคุณ "
+"ขณะนี้คุณกำลังใช้งานตัวแก้ไขเว็บของ GoDaddy ซึ่งมีคุณสมบัติทุกอย่างของ WordPress "
+"รวมถึงวิธีปรับแต่งงานออกแบบ แก้ไขหน้า และจัดการหน้า ทำได้ทุกอย่างจากจุดเดียว"
+
+#. translators: Default label for the Document sidebar tab, not selected.
+#: build/editSite.js:16
+msgid "Document"
+msgstr "เอกสาร"
+
+#. translators: ARIA label for the Document sidebar tab, selected. %s Document label.
+#: build/editSite.js:17
+msgid "%s (selected)"
+msgstr "%s (ที่เลือกไว้)"
+
+#. translators: ARIA label for the Block Settings Sidebar tab, selected.
+#: build/editSite.js:18
+msgid "Block (selected)"
+msgstr "บล็อก (ที่เลือกไว้)"
+
+#. translators: ARIA label for the Block Settings Sidebar tab, not selected.
+#. translators: Text label for the Block Settings Sidebar tab.
+#: build/editSite.js:19 build/editSite.js:20
+msgid "Block"
+msgstr "บล็อก"
+
+#. translators: Text label for the Block Settings Sidebar tab.
+#: build/editSite.js:20
+msgid "Visibility"
+msgstr "การมองเห็น"
+
+#: build/editSite.js:20
+msgid "Publish"
+msgstr "เผยแพร่"
+
+#: build/editSite.js:20 packages/site-content/src/post-menu-actions.js:122
+msgid "Really delete?"
+msgstr "จะลบจริงๆ หรือ"
+
+#: build/editSite.js:20
+msgid "Delete this page"
+msgstr "ลบหน้านี้"
+
+#: build/editSite.js:20
+msgid "Title"
+msgstr "ชื่อเรื่อง"
+
+#: build/editSite.js:20
+msgid "Display on page"
+msgstr "แสดงบนหน้า"
+
+#: build/editSite.js:20
+msgid "Page details"
+msgstr "รายละเอียดของหน้า"
+
+#: build/editSite.js:20
+msgid "Featured image"
+msgstr "รูปภาพที่น่าสนใจ"
+
+#: build/editSite.js:20
+msgid "Settings"
+msgstr "การตั้งค่า"
+
+#: build/editSite.js:20
+msgid "Close settings"
+msgstr "ปิดการตั้งค่า"
+
+#: build/editSite.js:20
+msgid "Plugins"
+msgstr "ปลั๊กอิน"
+
+#: build/editSite.js:20
+msgid "More"
+msgstr "เพิ่มเติม"
+
+#: build/editSite.js:20
+msgid "More tools & options"
+msgstr "เครื่องมือและตัวเลือกเพิ่มเติม"
+
+#: build/editSite.js:20
+msgid "Add"
+msgstr "เพิ่ม"
+
+#. translators: accessibility text for the footer landmark region.
+#: build/logoMenu.js:15
+msgid "Cache cleared"
+msgstr "ล้างค่าแคชแล้ว"
+
+#: build/logoMenu.js:15
+msgid "Site Editor"
+msgstr "ตัวแก้ไขเว็บ"
+
+#: build/logoMenu.js:15
+msgid "Main menu"
+msgstr "เมนูหลัก"
+
+#: build/logoMenu.js:15
+msgid "WordPress Management"
+msgstr "การจัดการ WordPress"
+
+#: build/logoMenu.js:15
+msgid "Manage Plugins"
+msgstr "จัดการปลั๊กอิน"
+
+#: build/logoMenu.js:15
+msgid "Manage Site Menus"
+msgstr "จัดการเมนูของเว็บ"
+
+#: build/logoMenu.js:15
+msgid "Customize Site Design"
+msgstr "ปรับแต่งการออกแบบเว็บ"
+
+#: build/logoMenu.js:15
+msgid "Manage Users"
+msgstr "จัดการผู้ใช้"
+
+#: build/logoMenu.js:15
+msgid "Manage Comments"
+msgstr "จัดการความเห็น"
+
+#: build/logoMenu.js:15
+msgid "WordPress Admin"
+msgstr "ผู้ดูแลระบบ WordPress"
+
+#: build/logoMenu.js:15
+msgid "Hosting"
+msgstr "โฮสติ้ง"
+
+#: build/logoMenu.js:15
+msgid "Hosting Overview"
+msgstr "ภาพรวมของโฮสติ้ง"
+
+#: build/logoMenu.js:15
+msgid "Hosting Settings"
+msgstr "การตั้งค่าโฮสติ้ง"
+
+#: build/logoMenu.js:15
+msgid "Tools"
+msgstr "เครื่องมือ"
+
+#: build/logoMenu.js:15
+msgid "Editor Preference"
+msgstr "การกำหนดค่าตัวแก้ไข"
+
+#: build/logoMenu.js:15
+msgid "Is this editor right for you?"
+msgstr "ตัวแก้ไขนี้เหมาะกับคุณหรือไม่"
+
+#: build/logoMenu.js:15
+msgid "Learn about other WordPress site building options here."
+msgstr "เรียนรู้เกี่ยวกับตัวเลือกอื่นในการสร้างเว็บไซต์ WordPress ที่นี่"
+
+#: build/logoMenu.js:15
+msgid "Flush Cache"
+msgstr "ล้างแคช"
+
+#: build/logoMenu.js:15
+msgid "Connection Management"
+msgstr "ระบบจัดการการเชื่อมต่อ"
+
+#: build/logoMenu.js:15
+msgid "Support"
+msgstr "การสนับสนุน"
+
+#: build/logoMenu.js:15
+msgid "Give Feedback"
+msgstr "กล่าวคำติชม"
+
+#: build/logoMenu.js:15
+msgid "Help & Support"
+msgstr "ความช่วยเหลือและการสนับสนุน"
+
+#: packages/common/src/tooltip/index.js:28
+msgid "Info"
+msgstr "ข้อมูล"
+
+#: packages/feedback-modal/src/feedback-modal-comment.js:25
+msgid "Tell us about your experience… (optional)"
+msgstr "บอกเล่าประสบการณ์ของคุณให้เราฟัง… (ไม่บังคับ)"
+
+#: packages/feedback-modal/src/feedback-modal-comment.js:32
+msgid "Send"
+msgstr "ส่ง"
+
+#: packages/feedback-modal/src/feedback-modal-success.js:15
+msgid "Thank you for sharing your feedback with us"
+msgstr "ขอบคุณที่มีคำติชมให้เรา"
+
+#: packages/feedback-modal/src/feedback-modal-success.js:21
+msgid "Close"
+msgstr "ปิด"
+
+#: packages/feedback-modal/src/index.js:99
+#: packages/feedback-modal/src/index.js:107
+#: packages/publish-guide/src/success-view.js:120
+msgid "Give feedback"
+msgstr "กล่าวคำติชม"
+
+#: packages/feedback-modal/src/index.js:108
+msgid "How would you rate your experience?"
+msgstr "คุณจะให้คะแนนประสบการณ์ที่ได้รับอย่างไร"
+
+#: packages/layout-selector/src/image-categories.js:23
+msgid "My site is about:"
+msgstr "เว็บไซต์ของฉันเกี่ยวกับ:"
+
+#: packages/layout-selector/src/image-category-defaults.js:5
+msgid "Fashion"
+msgstr "แฟชั่น"
+
+#: packages/layout-selector/src/image-category-defaults.js:9
+msgid "Home Decor"
+msgstr "การตกแต่งบ้าน"
+
+#: packages/layout-selector/src/image-category-defaults.js:13
+msgid "Coffee"
+msgstr "กาแฟ"
+
+#: packages/layout-selector/src/image-category-defaults.js:17
+msgid "Construction"
+msgstr "การก่อสร้าง"
+
+#: packages/layout-selector/src/image-category-defaults.js:21
+msgid "Art"
+msgstr "ศิลปะ"
+
+#: packages/layout-selector/src/image-category-defaults.js:25
+msgid "Baking"
+msgstr "อบ"
+
+#: packages/layout-selector/src/image-category-defaults.js:29
+msgid "Fitness"
+msgstr "ฟิตเนส"
+
+#: packages/layout-selector/src/image-category-defaults.js:33
+msgid "Landscaping"
+msgstr "การจัดสวน"
+
+#: packages/layout-selector/src/search.js:171
+msgid "Search"
+msgstr "ค้นหา"
+
+#: packages/publish-guide/src/publish-guide-items/add-domain.js:27
+msgid "Add your domain"
+msgstr "เพิ่มโดเมนของคุณ"
+
+#: packages/publish-guide/src/publish-guide-items/add-domain.js:28
+msgid ""
+"Look more professional and make it easier for customers to find your website."
+msgstr "ดูเป็นมืออาชีพมากขึ้นและทำให้ลูกค้าหาเว็บไซต์ของคุณพบง่ายขึ้น"
+
+#: packages/publish-guide/src/publish-guide-items/add-domain.js:39
+msgid "Change"
+msgstr "เปลี่ยนแปลง"
+
+#: packages/publish-guide/src/publish-guide-items/add-domain.js:47
+msgid "Add domain"
+msgstr "เพิ่มโดเมน"
+
+#: packages/publish-guide/src/publish-guide-items/site-content.js:20
+msgid "Review and add pages"
+msgstr "ตรวจทานและเพิ่มหน้า"
+
+#: packages/publish-guide/src/publish-guide-items/site-content.js:21
+msgid "We got you started with a few. Add more pages and content."
+msgstr "เราเริ่มต้นให้คุณบ้างแล้ว เพิ่มหน้าและเนื้อหา"
+
+#: packages/publish-guide/src/publish-guide-items/site-content.js:32
+msgid "Manage pages"
+msgstr "จัดการหน้า"
+
+#: packages/publish-guide/src/publish-guide-items/site-design.js:20
+msgid "Make the design your own"
+msgstr "ปรับงานออกแบบเป็นแบบของคุณ"
+
+#: packages/publish-guide/src/publish-guide-items/site-design.js:21
+msgid "Update the colors, fonts and change the look and feel of your site."
+msgstr "อัปเดตสี แบบอักษร ตลอดจนเปลี่ยนหน้าตาและอารมณ์ของเว็บไซต์"
+
+#: packages/publish-guide/src/publish-guide-items/site-design.js:31
+msgid "Customize"
+msgstr "ปรับแต่ง"
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:131
+msgid "website logo"
+msgstr "โลโก้ของเว็บไซต์"
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:136
+msgid "Add your site info & brand"
+msgstr "เพิ่มข้อมูลเว็บไซต์และแบรนด์ของคุณ"
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:137
+msgid ""
+"What’s the name of your site and what’s it’s purpose? Add a logo if you have "
+"one."
+msgstr "เว็บไซต์ของคุณชื่ออะไรและมีจุดประสงค์อะไร เพิ่มโลโก้ถ้ามี"
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:147
+msgid "Edit"
+msgstr "แก้ไข"
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:153
+msgid "Site title"
+msgstr "ชื่อเว็บไซต์"
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:159
+msgid "Site description"
+msgstr "คำอธิบายเว็บไซต์"
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:169
+#: packages/publish-guide/src/publish-guide-items/site-info.js:183
+#: packages/publish-guide/src/publish-guide-items/site-info.js:187
+#: packages/publish-guide/src/publish-guide-items/site-info.js:200
+msgid "Upload site logo"
+msgstr "อัปโหลดโลโก้เว็บไซต์"
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:205
+msgid "Replace Logo"
+msgstr "แทนที่โลโก้"
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:215
+msgid "Remove Logo"
+msgstr "ลบโลโก้ออก"
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:237
+msgid "Save"
+msgstr "บันทึก"
+
+#: packages/publish-guide/src/publish-guide-items/site-info.js:244
+msgid "Do this later"
+msgstr "จะดำเนินการภายหลัง"
+
+#: packages/publish-guide/src/success-view.js:44
+msgid "Your site is live on"
+msgstr "เว็บไซต์ของคุณเผยแพร่อยู่บน"
+
+#: packages/publish-guide/src/success-view.js:57
+msgid "Time to celebrate and"
+msgstr "ได้เวลาเฉลิมฉลองและ"
+
+#: packages/publish-guide/src/success-view.js:57
+msgid "share the great news."
+msgstr "แบ่งปันข่าวดี"
+
+#: packages/publish-guide/src/success-view.js:70
+#: packages/publish-guide/src/success-view.js:84
+#: packages/publish-guide/src/success-view.js:99
+msgid "Check out my new website!"
+msgstr "มาดูเว็บไซต์ใหม่ของฉัน!"
+
+#. translators: %1$s is a placeholder for the site's url.
+#: packages/publish-guide/src/success-view.js:102
+msgid ""
+"I just published my website at %1$s, come check it out and let me know what "
+"you think!"
+msgstr "ฉันเพิ่งเผยแพร่เว็บไซต์ของตัวเองที่ %1$s แวะมาดูแล้วบอกด้วยว่าคุณคิดอย่างไร!"
+
+#: packages/publish-guide/src/success-view.js:129
+msgid "Hide this guide"
+msgstr "ซ่อนคำแนะนำนี้"
+
+#: packages/site-content/src/post-menu-actions.js:51
+msgid "Select an action"
+msgstr "เลือกการดำเนินการ"
+
+#: packages/site-content/src/post-menu-actions.js:68
+msgid "Rename"
+msgstr "เปลี่ยนชื่อ"
+
+#: packages/site-content/src/post-menu-actions.js:80
+msgid "Really set as homepage?"
+msgstr "ตั้งเป็นหน้าแรกจริงๆ ใช่ไหม"
+
+#: packages/site-content/src/post-menu-actions.js:91
+msgid "Set as homepage"
+msgstr "ตั้งเป็นหน้าแรก"
+
+#: packages/site-content/src/post-menu-actions.js:101
+msgid "Unpin post"
+msgstr "ยกเลิกปักหมุดโพสต์"
+
+#: packages/site-content/src/post-menu-actions.js:101
+msgid "Pin post"
+msgstr "ปักหมุดโพสต์"
+
+#: packages/site-content/src/post-menu-actions.js:111
+msgid "Duplicate"
+msgstr "ทำสำเนา"
+
+#: packages/site-content/src/post-menu-actions.js:133
+msgid "Delete Page"
+msgstr "ลบหน้า"
+
+#: packages/site-content/src/post-menu-actions.js:133
+msgid "Delete Post"
+msgstr "ลบโพสต์"
+
+#: packages/site-design/src/color-palette-preview.js:86
+msgid "Colors"
+msgstr "สี"
+
+#: packages/site-design/src/color-palette-preview.js:98
+msgid "Color Palettes"
+msgstr "จานสี"
+
+#: packages/site-design/src/color-palette-preview.js:103
+#: packages/site-design/src/font-preview.js:85
+msgid "Custom"
+msgstr "กำหนดเอง"
+
+#: packages/site-design/src/design-preview.js:58
+msgid "Design Styles"
+msgstr "สไตล์การออกแบบ"
+
+#: packages/site-design/src/design-preview.js:62
+msgid ""
+"Easily explore curated design styles, then customize your colors and fonts "
+"to get the perfect fit."
+msgstr ""
+"สำรวจสไตล์การออกแบบที่เราคัดสรรมาแล้วได้อย่างง่ายดาย "
+"จากนั้นปรับแต่งสีและแบบอักษรของคุณตามที่คุณต้องการ"
+
+#: packages/site-design/src/font-advanced.js:50
+msgid "Custom Font Options"
+msgstr "ตัวเลือกแบบอักษรที่กำหนดเอง"
+
+#: packages/site-design/src/font-advanced.js:57
+msgid "HEADING"
+msgstr "หัวเรื่อง"
+
+#: packages/site-design/src/font-advanced.js:59
+#: packages/site-design/src/font-advanced.js:101
+msgid "Font"
+msgstr "แบบอักษร"
+
+#: packages/site-design/src/font-advanced.js:72
+#: packages/site-design/src/font-advanced.js:115
+msgid "Weight"
+msgstr "ความหนา"
+
+#: packages/site-design/src/font-advanced.js:85
+#: packages/site-design/src/font-advanced.js:128
+msgid "Size"
+msgstr "ขนาด"
+
+#: packages/site-design/src/font-advanced.js:98
+msgid "Heading font size"
+msgstr "ขนาดแบบอักษรของหัวเรื่อง"
+
+#: packages/site-design/src/font-advanced.js:99
+msgid "BODY"
+msgstr "เนื้อความ"
+
+#: packages/site-design/src/font-preview.js:43
+msgid "Fonts"
+msgstr "แบบอักษร"
+
+#: packages/site-design/src/font-preview.js:49
+msgid "Font Pairings"
+msgstr "การจับคู่แบบอักษร"
+
+#: packages/site-design/src/font-preview.js:123
+msgid "The quick brown fox jumped over the lazy dog."
+msgstr ""
+"นายสังฆภัณฑ์ เฮงพิทักษ์ฝั่ง ผู้เฒ่าซึ่งมีอาชีพเป็นฅนขายฃวด ถูกตำรวจปฏิบัติการจับฟ้องศาล "
+"ฐานลักนาฬิกาคุณหญิงฉัตรชฎา ฌานสมาธิ"
+
+#: packages/site-design/src/font-preview.js:131
+msgid "Hide font sizes"
+msgstr "ซ่อนขนาดแบบอักษร"
+
+#: packages/site-design/src/font-preview.js:131
+msgid "Edit font sizes"
+msgstr "แก้ไขขนาดแบบอักษร"
+
+#: packages/site-design/src/font-size-picker.js:38
+msgid "Small"
+msgstr "เล็ก"
+
+#: packages/site-design/src/font-size-picker.js:43
+msgid "Normal"
+msgstr "ปกติ"
+
+#: packages/site-design/src/font-size-picker.js:48
+msgid "Large"
+msgstr "ใหญ่"
+
+#: packages/site-design/src/font-size-picker.js:93
+msgid "Base size"
+msgstr "ขนาดของฐาน"
+
+#: packages/site-design/src/font-size-picker.js:98
+msgid "Font size"
+msgstr "ขนาดแบบอักษร"
+
+#: packages/site-design/src/font-size-picker.js:125
+msgid "Heading Scale"
+msgstr "ขนาดส่วนหัว"
+
+#: packages/site-design/src/index.js:154
+msgid "Site design"
+msgstr "การออกแบบเว็บ"
+
+#: packages/site-design/src/index.js:165
+msgid "Design"
+msgstr "ออกแบบ"
+
+#: packages/update-dependency/src/hooks/useWorkflow.js:52
+msgid "Update completed."
+msgstr "อัพเดตเสร็จสมบูรณ์แล้ว"
+
+#: packages/update-dependency/src/index.js:28
+msgid "Updating to the latest and greatest"
+msgstr "กำลังอัพเดตเป็นเวอร์ชันล่าสุดและดีที่สุด"
+
+#: packages/update-dependency/src/index.js:31
+msgid "Please wait while we apply the latest update to your editor."
+msgstr "โปรดรอสักครู่เพื่อให้อัพเดตล่าสุดมีผลกับตัวแก้ไขของคุณ"
+
+#: packages/update-dependency/src/index.js:32
+msgid "This shouldn't take long."
+msgstr "ไม่น่าจะใช้เวลานาน"
+
+#: packages/wp-admin/src/themes-optout-modal/index.js:52
+msgid "This will change your site editor, too"
+msgstr "การทำเช่นนี้จะเปลี่ยนตัวแก้ไขเว็บของคุณด้วย"
+
+#: packages/wp-admin/src/themes-optout-modal/index.js:54
+msgid ""
+"You are currently using the GoDaddy Site Editor with the Go theme, which "
+"gives you all of WordPress plus a way to customize your design, edit your "
+"pages and manage your pages, all from one place."
+msgstr ""
+"ขณะนี้คุณกำลังใช้งานตัวแก้ไขเว็บของ GoDaddy ที่ใช้ธีม Go ซึ่งมีคุณสมบัติทุกอย่างของ WordPress "
+"แต่เพิ่มวิธีปรับแต่งงานออกแบบ แก้ไขหน้า และจัดการหน้า ทำได้ทุกอย่างจากจุดเดียว"
+
+#: packages/wp-admin/src/themes-optout-modal/index.js:58
+msgid ""
+"Once you activate a new theme, this site will no longer work with the "
+"GoDaddy Site Editor. Your site will switch to the default WordPress Editor "
+"instead."
+msgstr ""
+"เมื่อคุณเปิดใช้งานธีมใหม่ เว็บนี้จะใช้ตัวแก้ไขเว็บของ GoDaddy ไม่ได้อีกต่อไป "
+"เว็บของคุณจะเปลี่ยนไปใช้ตัวแก้ไข WordPress เริ่มต้นแทน"
+
+#: packages/wp-admin/src/themes-optout-modal/index.js:61
+msgid ""
+"Ready to activate a new theme and switch to the default WordPress editor?"
+msgstr "พร้อมจะเปิดใช้งานธีมใหม่และเปลี่ยนไปใช้ตัวแก้ไข WordPress เริ่มต้นหรือไม่"
+
+#: packages/wp-admin/src/themes-optout-modal/index.js:74
+msgid "Activate"
+msgstr "เปิดใช้งาน"

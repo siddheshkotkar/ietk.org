@@ -1,0 +1,31 @@
+parameters:
+	level: 1
+	paths:
+		- src
+		- tests
+	bootstrapFiles:
+		- vendor/php-stubs/wordpress-globals/wordpress-globals.php
+		- vendor/php-stubs/wordpress-stubs/wordpress-stubs.php
+		- vendor/php-stubs/woocommerce-stubs/woocommerce-stubs.php
+		- vendor/php-stubs/woocommerce-stubs/woocommerce-packages-stubs.php
+	scanFiles:
+		- vendor/antecedent/patchwork/Patchwork.php
+	scanDirectories:
+		- vendor/godaddy/mwc-cost-of-goods
+		- vendor/godaddy/mwc-gift-certificates
+		- vendor/godaddy/mwc-google-analytics
+		- vendor/godaddy/mwc-sequential-order-numbers
+		- vendor/godaddy/mwc-url-coupons
+		- vendor/skyverge/wc-plugin-framework/woocommerce
+	ignoreErrors:
+		# Uses func_get_args(). See https://github.com/php-stubs/wordpress-stubs/issues/2
+		- '#^Function apply_filters(_ref_array)? invoked with [34567] parameters, 2 required\.$#'
+		# Ignore errors from WooCommerce Subscriptions functions and classes
+		- '#Function wcs_[a-zA-Z0-9_]+ not found#'
+		- '#on an unknown class WC_Subscriptions_[a-zA-Z0-9_]+#'
+		- '#Class WC_Subscription not found#'
+		- '#has invalid type WC_Subscription\b#'
+		# Ignore errors from WooCommerce Pre Orders classes
+		- '#on an unknown class WC_Pre_Orders_[\w]+#'
+		# Ignore errors from Local Pickup Plus
+		- '#Class WC_Local_Pickup_Plus[a-zA-Z0-9_]* not found#'
